@@ -1,0 +1,9 @@
+Если вы испытываете проблемы с доступом к YouTube, не можете увидеть аватарки или другое, то предлагаем добавить эти сайты в белый список сайтов для проксирования
+
+ggpht.com
+youtube.com
+google.com
+ytimg.com
+googlevideo.com
+googleapis.com
+gstatic.com
