@@ -1,4 +1,16 @@
 В этом файле представлены ссылки на сайты типа музыкальных сервисов и другого.
 
+
+Spotify
 spotify.com
+spotifycdn.com
+scdn.co
+
+SoundCloud
 soundcloud.com
+sndcdn.com
+
+
+YouTube Music
+youtube.com
+googletagmanager.com
