@@ -1,4 +1,4 @@
-В этом файле представлены ссылки на сайты типа музыкальных сервисов и другого.
+В этом файле представлены ссылки на сайты популярных музыкальных сервисов 
 
 
 Spotify
@@ -13,4 +13,10 @@ sndcdn.com
 
 YouTube Music
 youtube.com
+ggpht.com
 googletagmanager.com
+google.com
+ytimg.com
+googlevideo.com
+googleapis.com
+gstatic.com
